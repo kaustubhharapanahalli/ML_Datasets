@@ -6,6 +6,12 @@ This file contains a list of Machine Learning Datasets which will help you get s
 
 This repo starts with a few easy dataset and then goes on to have problems related to Computer Vision, Natural Language Processing and Recurrent Learning and other AI domains.
 
+
+
+The following datasets are beginner level. More datasets on the beginner level will be added soon. 
+
+### Beginner Level
+
 | #    | Dataset                                                     | Dataset Link                                                 | Task on Dataset                |
 | ---- | ----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------- |
 | 1    | Forest Fires Data Set                                       | <https://archive.ics.uci.edu/ml/datasets/forest+fires>       | Regression                     |
